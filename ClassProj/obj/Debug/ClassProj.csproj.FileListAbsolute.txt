@@ -1,0 +1,13 @@
+F:\MyFiles_YanaFiles_DONOTOUCH\6.Class_diagram_DONE\ClassProj\ClassProj\bin\Debug\ClassProj.exe.config
+F:\MyFiles_YanaFiles_DONOTOUCH\6.Class_diagram_DONE\ClassProj\ClassProj\bin\Debug\ClassProj.exe
+F:\MyFiles_YanaFiles_DONOTOUCH\6.Class_diagram_DONE\ClassProj\ClassProj\bin\Debug\ClassProj.pdb
+F:\MyFiles_YanaFiles_DONOTOUCH\6.Class_diagram_DONE\ClassProj\ClassProj\obj\Debug\ClassProj.csprojAssemblyReference.cache
+F:\MyFiles_YanaFiles_DONOTOUCH\6.Class_diagram_DONE\ClassProj\ClassProj\obj\Debug\ClassProj.csproj.CoreCompileInputs.cache
+F:\MyFiles_YanaFiles_DONOTOUCH\6.Class_diagram_DONE\ClassProj\ClassProj\obj\Debug\ClassProj.exe
+F:\MyFiles_YanaFiles_DONOTOUCH\6.Class_diagram_DONE\ClassProj\ClassProj\obj\Debug\ClassProj.pdb
+C:\BSUIR 3\ООТПиСП\ClassProj\ClassProj\ClassProj\bin\Debug\ClassProj.exe.config
+C:\BSUIR 3\ООТПиСП\ClassProj\ClassProj\ClassProj\bin\Debug\ClassProj.exe
+C:\BSUIR 3\ООТПиСП\ClassProj\ClassProj\ClassProj\bin\Debug\ClassProj.pdb
+C:\BSUIR 3\ООТПиСП\ClassProj\ClassProj\ClassProj\obj\Debug\ClassProj.csprojResolveAssemblyReference.cache
+C:\BSUIR 3\ООТПиСП\ClassProj\ClassProj\ClassProj\obj\Debug\ClassProj.exe
+C:\BSUIR 3\ООТПиСП\ClassProj\ClassProj\ClassProj\obj\Debug\ClassProj.pdb
